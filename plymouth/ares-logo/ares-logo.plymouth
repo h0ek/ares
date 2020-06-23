@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Ares Logo
+Description=A theme that features a background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ares-logo
+ScriptFile=/usr/share/plymouth/themes/ares-logo/ares-logo.script
