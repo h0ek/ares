@@ -40,4 +40,5 @@ Free icon from **Vecteezy** -> https://www.vecteezy.com/vector-art/620158-sparta
 ### Additional PPA
 
 http://ppa.launchpad.net/mozillateam/ppa/ubuntu
+
 http://ppa.launchpad.net/papirus/papirus/ubuntu
