@@ -11,17 +11,20 @@ This machine is something similar to [Kali Linux](https://www.kali.org/) or [Par
 ### Credentials
 
 **Login:** user
+
 **Password:** changeme
+
 **Root password:** changeme
 
 ### Theme
 
 **Papirus Icon Theme** -> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-Free wallpaper from **Walpaper Flare** -> https://www.wallpaperflare.com/
-Free icon from **Vecteezy** -> https://www.vecteezy.com/vector-art/620158-spartan-helmet-logo-vector
-**Greybird** window manager style -> https://github.com/shimmerproject/Greybird
 
-Github: https://github.com/h0ek/ares
+Free wallpaper from **Walpaper Flare** -> https://www.wallpaperflare.com/
+
+Free icon from **Vecteezy** -> https://www.vecteezy.com/vector-art/620158-spartan-helmet-logo-vector
+
+**Greybird** window manager style -> https://github.com/shimmerproject/Greybird
 
 ### Tools
 
