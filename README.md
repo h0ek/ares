@@ -8,7 +8,7 @@ This machine is something similar to [Kali Linux](https://www.kali.org/) or [Par
 
 > Ares (/ˈɛəriːz/; Ancient Greek: Ἄρης, Áres [árɛːs]) is the Greek god of war. He is one of the Twelve Olympians, the son of Zeus and Hera. In Greek literature, he often represents the physical or violent and untamed aspect of war and is the personification of sheer brutality, in contrast to his sister, the armored Athena, whose functions as a goddess of intelligence include military strategy and generalship.
 > 
-> - Wikipedia
+>-Wikipedia
 
 ### Credentials
 
