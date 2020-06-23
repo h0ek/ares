@@ -2,6 +2,7 @@
 
 **Ares** is a virtual machine for [VirtualBox](https://www.virtualbox.org/) based on [Xubuntu LTS](https://xubuntu.org/download/).
 This machine is something similar to [Kali Linux](https://www.kali.org/) or [Parrot OS](https://parrotlinux.org/), but lightweight, with less tools. There are only tools that I used at least once, and I find them useful, with time there will probably be more and more of them. You can also add your own. I am using it as my machine for learning and bounty programs. Maybe it will be useful to someone.
+https://img.shields.io/bitbucket/issues-raw/h03k/ares
 
 ## Name
 
