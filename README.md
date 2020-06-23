@@ -1,4 +1,4 @@
-![GitHub issues](https://img.shields.io/github/issues/h0ek/ares)
+![GitHub issues](https://img.shields.io/github/issues/h0ek/ares) ![GitHub](https://img.shields.io/github/license/h0ek/ares)
 # Ares Project
 
 **Ares** is a virtual machine for [VirtualBox](https://www.virtualbox.org/) based on [Xubuntu LTS](https://xubuntu.org/download/).
