@@ -29,8 +29,11 @@ Free icon from **Vecteezy** -> https://www.vecteezy.com/vector-art/620158-sparta
 ### Tools
 
 -Firefox-ESR + NoScript plugin
+
 -Burp Community Edition
+
 -Nmap
+
 -hping3
 
 ### Additional PPA
